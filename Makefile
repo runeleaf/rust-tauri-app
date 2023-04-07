@@ -1,0 +1,2 @@
+up:
+	pnpm tauri dev
